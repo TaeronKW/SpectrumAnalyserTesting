@@ -162,4 +162,8 @@ cython_debug/
 #.idea/
 
 # Data files
-.csv
+*.csv
+
+# RFExplorer Library has its own repo so ignore it here
+RFExplorer
+RFExplorer-for-Python
